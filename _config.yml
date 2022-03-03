@@ -7,23 +7,23 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DJ Daugherty"
+title                    : "dj."
 title_separator          : "-"
 name                     : &name "DJ Daugherty"
-description              : &description "personal description"
+description              : &description "thinking autonomously.j"
 url                      : https://ddaugher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ddaugher/ddaugher.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "https://unsplash.it/500/300/?random"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus"
   disqus:
-    shortname            :
+    shortname            : "djdaugherty"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ddaugher"
 facebook:
   username               :
   app_id                 :
@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: "https://twitter.com/ddaugher"
 
 
 # Analytics
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "DJ Daugherty"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "???"
+  name             : *name
+  avatar           : https://en.gravatar.com/userimage/18369920/6757a7b34de226b502bda2bd9f5a7059.png
+  bio              : "thinking autonomously."
+  location         : "depends on the day."
   employer         :
   pubmed           : ""
   googlescholar    : ""
-  email            :
+  email            : *email
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://djdaugherty.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ddaugher"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ddaugher"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ddaugher"
   vine             :
   weibo            :
   xing             :
