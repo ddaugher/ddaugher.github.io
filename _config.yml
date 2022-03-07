@@ -85,8 +85,8 @@ author:
   bio              : "thinking autonomously."
   location         : "depends on the day."
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            : *email
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://djdaugherty.com"
