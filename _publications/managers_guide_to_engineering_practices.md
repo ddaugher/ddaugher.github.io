@@ -116,6 +116,7 @@ This is a personal one.  I like each team to put small indicators on each card a
 This one seems pretty straight forward to me.  Each card on the wall should have a pair of names (you are pairing... right?).  The names are a great way to know who to ask when you have a question about a card.  It also helps to know when someone needs something to work on.  Also... it helps to know when someone is violating the teams WIP limits.  Please put names on the cards.
 
 ## blocked cards
+This one just makes sense to me, but not everyone seems to want to indicate when a card is blocked.  It doesn't indicate you or the team is doing anything wrong.  It just makes it big a visible when something is not going as planned.  You know... the whole purpose of having a card wall in the first place.
 
 ## excursus
 
