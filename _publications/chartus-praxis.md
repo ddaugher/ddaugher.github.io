@@ -53,9 +53,10 @@ Spread them so the team can see how full the universe is of practices they can u
 team and engineering processes.
 
 - Round 1 – Review the Practices
-Review and clarify each practice so the team has an understanding of what the card represents.
+	- Review and clarify each practice so the team has an understanding of what the card represents.
+
 - Round 2 – What does the Team Think?
-Remove all of the cards from the universe and trisect the circles horizontally. Top line in Blue,
+	- Remove all of the cards from the universe and trisect the circles horizontally. Top line in Blue,
 bottom line in Green. Add the Legend and arrows as shown. Explain the three sections to the team.
 This is where the team interaction comes to the fore. Using a round-robin approach, have each team
 member take a card and place it in its corresponding section and in the place where they think the
@@ -63,7 +64,7 @@ team is on the Legend: Not on Radar, Trying, not yet Embrace, and Embedded in Te
 state why they think the team is where they’re putting it. Continue through until all the cards
 are placed.
 - Round 3 – What Are Our Priorities?
-In one final round, ask each team member where they think focus for continuous improvement should be.
+	- In one final round, ask each team member where they think focus for continuous improvement should be.
 Mark the card with dots (or stars, or whatever). Then of those few cards, have the team select #1
 (they could have a card selected as #1 in each section depending on their state) to focus on.
 
