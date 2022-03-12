@@ -2,11 +2,12 @@
 title: "Coding in the Clink 6"
 excerpt: "My time in prison."
 comments: true
-tags: 
+tags:
   - coding in the clink
+published: false
 ---
 
->What were you doing on Saturday, March 2012? 
+>What were you doing on Saturday, March 2012?
 
 You should of been in Marion, Ohio… participating in Coding in the Clink VI. Dan Wiebe (twitter – @dnwiebe) has been asking me for months to participate and I have always had something else that was more important. Big mistake on my part. The short version, just in case you do not want to keep reading… it was AWESOME !!! and I will do it again. Every person should attempt to attend. As good as any code-retreat I have ever attended.
 

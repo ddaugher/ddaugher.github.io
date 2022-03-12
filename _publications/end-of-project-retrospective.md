@@ -1,22 +1,23 @@
 ---
 layout: single
 title: "End-of-project-retrospective"
-tags: 
+tags:
   - retrospective
 comments: true
+published: true
 ---
 
 My first attempt was to try and document all of the events since joining the project… and as interesting as it might be, I have decided to take a slightly different approach to capturing my retrospective thoughts.
 
-Many of you have probably read or heard this before… 
+Many of you have probably read or heard this before…
 
 It’s not where you start, but where you finish.
 April Heinrichs – Coach of the U.S. women’s national soccer team
-I couldn’t agree with this more… when considering the Client X project.  
+I couldn’t agree with this more… when considering the Client X project.
 
 The initial steps were rough, many paths were started and many ended quickly (fail fast… right?)
 
-Internal Client X's direction was 
+Internal Client X's direction was
 
 - ‘foggy’ at best
 - a large portion of the technical stack was undefined and misunderstood
@@ -32,13 +33,13 @@ Over the last couple of weeks, I have been gathering my thoughts and ideas, conc
 
 I have spent considerable time, pondering the idea of injecting a self-sufficient Pillar team into a ‘transforming’ environment, with the sole purpose of delivering valuable features.  We have been presented with many challenges, but because of these challenges, we will have many opportunities as well.
 
-The first and probably the most challenging issue I feel the team is currently experiencing is a question we will need to address with Client X.  
+The first and probably the most challenging issue I feel the team is currently experiencing is a question we will need to address with Client X.
 
 > “Should our team be autonomous?”.
 
 We have been asked to deliver a ‘velocity’ team, but we are currently being used as ‘staff aug’.  The question of autonomy really comes down to determining which criteria will be used to determine success for the team.  If the team is to focus 100% on ‘feature delivery’, then the number of valuable features delivered to Client X will be our mark of success.  If the team is to focus 100% on ‘coaching’, then we should be judged on our ability to transform, the associated Client X team, into a performing, agile team.  Although, it is rare for a team to focus completely on feature delivery or completely on coaching.  I believe it is very important, ultimately critical, to determine the percentage.  This will determine if the team is successful.  If the team is to be a ‘feature delivery’ team, 100% of the time… autonomy is a necessity.  Without autonomy, work distribution will become cumbersome and will result in the ultimate roadblock to team success.
 
-The next challenge we currently face is the fact we are required to share a backlog and even worse… a card wall.  This sharing is creating artificial dependencies… slowing the delivery of each feature.  Our ultimate goal of small, concise, non-dependent cards may not always be feasible but should be the direction our team heads.  
+The next challenge we currently face is the fact we are required to share a backlog and even worse… a card wall.  This sharing is creating artificial dependencies… slowing the delivery of each feature.  Our ultimate goal of small, concise, non-dependent cards may not always be feasible but should be the direction our team heads.
 
 All of the Client X, ‘agile’ teams share a single code repository and single continuous integration server.  Many of the Client X team members believe a shared code base creates unmanageable dependencies between teams.  I have worked on many, very large enterprise and open-source projects, with hundreds of developers sharing a single code base… and they were, and still remain, very successful.
 
@@ -65,8 +66,8 @@ so… five months later… here are my thoughts…
 Client X was not ready for a ‘Pillar style’ team !  And what I mean by this is…
 solid work ethic,
 solid technical competency,
-creativity to solve problems, 
-ability for a group of people, with little time together, to work as a team, 
+creativity to solve problems,
+ability for a group of people, with little time together, to work as a team,
 realization that ‘a team is a team’… and it is more than the sum of it’s parts
 the never stop trying attitude every Pillar team, I have ever been involved with… has !
 We, Pillar, didn’t have a concept of how dysfunctional Client X was until we arrived.  The noise created by this dysfunction provided lots of opportunities for Pillar… especially after delivering value to the customer.
@@ -74,7 +75,7 @@ Client X was not prepared to ‘incubate’ new teams… either internal or exte
 Client X has grown in many areas…
 their people are ‘more agile’,
 their agile processes have come a long way… much work still remains,
-their ability to more quickly adapt / change has improved, 
+their ability to more quickly adapt / change has improved,
 their ability to accept change as the norm and focus on the value a feature can provide to the company, not how ‘cool’ something seems… has improved.
 Client X has areas where they are still growing…
 many of the teams think their way… is still the best way.
@@ -85,12 +86,12 @@ effective card writing is still a challenge
 code guarding is still present… the concept of ‘collective code’ is very scary for them
 development environment is still minimally understood… Linux is still very new
 team buy-in is still at a minimum… they are still not convinced ‘agile’ is the way to go
-More importantly, (at least to me)… Pillar has been able to grow… 
+More importantly, (at least to me)… Pillar has been able to grow…
 
 we have added many new ‘Pillarites’… all very capable and fun to work with
 we understand how to deal with challenging, ‘opportunity rich’ environments and succeed.
 and yes… we learned things from Client X as well !!!
-so… one final comment… 
+so… one final comment…
 
 We changed and will continue to change, the way Client X “works”… !!!
 

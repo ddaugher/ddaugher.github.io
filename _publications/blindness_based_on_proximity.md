@@ -1,7 +1,7 @@
 ---
 title: "Blindness based on proximity."
 excerpt: "..."
-tags: 
+tags:
   - tech notes
 comments: true
 ---

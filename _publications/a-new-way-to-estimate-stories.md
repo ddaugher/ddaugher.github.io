@@ -2,8 +2,7 @@
 title: "A New Way to Estimate User Stories"
 excerpt: "..."
 comments: true
-tags: 
-    - estimation
+published: false
 ---
 
 Cross Functional Collaboration coming soon...

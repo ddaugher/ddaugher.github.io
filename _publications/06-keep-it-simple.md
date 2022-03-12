@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Keep It Simple" 
+title: "Keep It Simple"
 excerpt: ""
-tags: 
+tags:
 comments: true
-published: true
+published: false
 ---
 

@@ -1,17 +1,17 @@
 ---
 title: The Challenges of Card Wall Management
 excerpt: "is it really that tough?"
-tags: 
+tags:
   - card wall management
   - tech notes
 comments: true
 ---
 
-Card walls are all the rage.  It seems every team, proclaiming to be 'agile' or 
-following some form of 'agile', has a card wall.  Although, in most cases, I do not see 
-these teams actually knowing why they have a card wall or even what they are supposed 
-to do with the wall... or the cards.  I would suggest dismantling and removing the card wall... 
-if the team doesn't understand why they have a wall or the value of having the wall.  Not knowing why, 
+Card walls are all the rage.  It seems every team, proclaiming to be 'agile' or
+following some form of 'agile', has a card wall.  Although, in most cases, I do not see
+these teams actually knowing why they have a card wall or even what they are supposed
+to do with the wall... or the cards.  I would suggest dismantling and removing the card wall...
+if the team doesn't understand why they have a wall or the value of having the wall.  Not knowing why,
 will just result in the team not seeing the benefits and not using the wall.
 
 So... now that I have suggested throwing your card wall away, maybe I should spend some
@@ -26,7 +26,7 @@ The card wall should:
 - give the team a place to congregate and discuss the status of the project, which is inevitably the status of the team.
 - improve the communication of the team.  This improved communication aids in the removal of blocks and decision-making.
 
-A well-executed card wall will provide the following: 
+A well-executed card wall will provide the following:
 - what is the current commitment of the team
 - what is the team working on, both... at a team level as well as at the individual
 - who is working on what... are they working on too many cards... are they working at all.
@@ -38,13 +38,13 @@ A well-executed card wall will provide the following:
 
 # Why is card wall management so difficult?
 
-Because it is not easy.  Well, that seems like a dumb answer, but an answer 
-non-the-less.  The management of the card is inherently difficult because 
-there are so many moving parts.  Any good card wall will have the complete 
-status of the team at any given point in time.  For instance: 
+Because it is not easy.  Well, that seems like a dumb answer, but an answer
+non-the-less.  The management of the card is inherently difficult because
+there are so many moving parts.  Any good card wall will have the complete
+status of the team at any given point in time.  For instance:
 
 - the number of cards in the backlog.
-- how many of these cards have estimates... hello ! they should all have estimates... cards should not be in the 
+- how many of these cards have estimates... hello ! they should all have estimates... cards should not be in the
 groomed backlog unless they meet the definition of done... which includes a proper estimate.
 - how many of these cards are blocked... and by this I mean, truly blocked.  Not because someone 'special' isn't available
 to work on the card... or someone is on vacation... or they are IN A MEETING.  But a real block.
@@ -61,26 +61,26 @@ But, why is it so difficult?  We have still not answered the question.  It is ha
 
 # Why do teams make the card wall such a constraint?
 
-I do not know that I have the definitive answer to that question, but I 
+I do not know that I have the definitive answer to that question, but I
 can speculate.  They are scared of what information the wall will present
 to the outside world.  If the card wall is a mess and the outside observer
-(whether a passer-by or your manager) attempts to read the board... the 
+(whether a passer-by or your manager) attempts to read the board... the
 confusion will limit their ability to decipher.  Please stop doing this.
-A well-executed board will allow the status of the team to be bigger 
+A well-executed board will allow the status of the team to be bigger
 and more visible.  You are more capable of recovering from a bad situation when the rest of the team knows the issue and can react and provide
 assistance.
 
-# Who should own the wall?  
+# Who should own the wall?
 
-### the Business?... 
+### the Business?...
 
-### the Scrum Master?... 
+### the Scrum Master?...
 
-### the Technical Lead?... 
+### the Technical Lead?...
 
 ### the team?
 
-In my world, the card wall is owned by the team.  The business is responsible for putting cards within the backlog... 
+In my world, the card wall is owned by the team.  The business is responsible for putting cards within the backlog...
 in priority order.  They should add/remove/rearrange as much as they like.  As soon as the card is removed from backlog to the 'in progress' column, the business has lost the card.  If the business decides a card, already in progress, needs to be postponed or cancelled... the team takes the points and gives the card back to the business.  If the business decides the card needs to be placed back in to the backlog (at some point)... reestimation needs to occur.  This is not to be considered a point collecting exercise, but the cost of context switching.
 
 There are an infinite number of possible layouts, and should be determined by the team.  Here is a basic layout I would start with.
